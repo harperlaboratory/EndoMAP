@@ -1,0 +1,17 @@
+Datasets,Species,Cell line,Isolation method
+Park.Ncomm.2022,Human,Hek 293,Endo-IP
+Ihtzak.eLife.2016,Human,HeLa,Differential centrifugation
+Go.Nature.2021,Human,Hek293,Proximity lab.
+Christoforou.Ncomm.2016,Mouse,ES (E14TG2a),Density gradient
+Steinberg.Nat.Cell.Biol.2013,Human,HeLa,Surface biotinylation
+McNally.Nat.Cell.Biol.2017,Human,HeLa,Surface biotinylation
+Courtland.eLife.2021,Mouse,in vivo,Proximity lab.
+Shin.Ncomm.2020,Human,Hek293,LOPIT-DC
+Duclos.Proteomics.2011_Human,Human,J774,Endocytosis
+Duclos.Proteomics.2011_Mouse,Mouse,mouse bone marrow-derived DC,Endocytosis
+Ayagama.iScience.2021,Ginea pig,Heart tissue,Density gradient
+Lafourcade.Plos.2008,Hamster,BHK,Density gradient
+Mukhopadhyay.JCS.2011,Rat,Liver,Endocytosis
+Olmo.EMBO.2019,Human,HeLa,Proximity lab.
+Foster.Cell.2006,Mouse,Liver,Differential centrifugation
+Ithzak.Cell.Rep.2017,Mouse,Neuron,Differential centrifugation
